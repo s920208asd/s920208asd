@@ -1,5 +1,35 @@
-### Hi there 👋
+# 👨‍💻Andy#s920208asd 
+ 
+### About Me...
+🙋‍ Hi, It's Andy    
+🏝️ Taiwanese    
+😻 A Super Cat Lover    
+🖥️ A Junior Software Developer    
+🧏‍ A Good Communicator (maybe)
 
+🌐 Spoken Languages: English & Chinese (Mandarin)
+
+### Skills
+
+#### 📚 Languaes and Frameworks
+- HTML5
+- CSS3
+- Js
+- Java
+- SpringBoot
+- SQL    
+... will be more
+
+### What you'll find...
+🚀 "Lazy-trip" Frontend & Backend Project
+Worked hard on the "Lazy-trip" project, collaborating with my favorite team at Tibame.
+
+🚀 EmpManagement: SpringBoot and Bootstrap Self-Practice Project
+Developed the EmpManagement project as a self-practicing endeavor to enhance my skills in SpringBoot and Bootstrap.
+
+### 📫 How to reach me: ...
+via email:
+s920208asd@gmail.com
 <!--
 **s920208asd/s920208asd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
