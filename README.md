@@ -1,10 +1,10 @@
-# 👨‍💻Andy#s920208asd 
+# Andy#s920208asd 
  
 ### About Me...
 🙋‍ Hi, It's Andy    
 🏝️ Taiwanese    
 😻 A Super Cat Lover    
-🖥️ A Junior Software Developer    
+👨‍💻 A Junior Software Developer    
 👂 A Good Communicator (maybe)
 
 🌐 Spoken Languages: English & Chinese (Mandarin)
