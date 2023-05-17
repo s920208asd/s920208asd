@@ -24,7 +24,7 @@
 🚀 "Lazy-trip" Frontend & Backend Project
 Worked hard on the "Lazy-trip" project, collaborating with my favorite team at Tibame.
 
-🚀 EmpManagement: SpringBoot and Bootstrap Self-Practice Project
+🚀 "EmpManagement": SpringBoot and Bootstrap Self-Practice Project
 Developed the EmpManagement project as a self-practicing endeavor to enhance my skills in SpringBoot and Bootstrap.
 
 ### 📫 How to reach me: ...
