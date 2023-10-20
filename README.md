@@ -3,9 +3,9 @@
 ### About Me...
 🙋‍ Hi, It's Andy    
 🏝️ Taiwanese    
-😻 A Super Cat Lover    
-👨‍💻 A Junior Software Developer    
-👂 A Good Communicator (maybe)
+😻 Super Cat Lover    
+👨‍💻 Junior Software Developer    
+👂 Good Communicator (maybe)
 
 🌐 Spoken Languages: English & Chinese (Mandarin)
 
