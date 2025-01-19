@@ -4,7 +4,7 @@
 🙋‍ Hi, It's Andy    
 🏝️ Taiwanese    
 😻 Super Cat Lover    
-👨‍💻 Junior Software Developer    
+👨‍💻 Software Developer & Junior System Analyst    
 👂 Good Communicator & Best teammate
 
 
@@ -28,6 +28,7 @@
 - CSS
 - JavaScript
 - Docker
+- System Analysis
 ... will be more
 
 ### What you'll find...
