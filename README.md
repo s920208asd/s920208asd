@@ -32,10 +32,11 @@
 
 ### What you'll find...
 🚀 "Lazy-trip" Frontend & Backend Project
+
 Worked hard on the "Lazy-trip" project, collaborating with my favorite team at Tibame.
 
-🚀 "EmpManagement": SpringBoot, myBatis and basic frontend with Bootstrap Self-Practice Project
-Developed the EmpManagement project as a self-practicing endeavor to enhance my skills in SpringBoot and Bootstrap.
+<!--🚀 "EmpManagement": SpringBoot, myBatis and basic frontend with Bootstrap Self-Practice Project-->
+<!--Developed the EmpManagement project as a self-practicing endeavor to enhance my skills in SpringBoot and Bootstrap.-->
 
 ### 📫 How to reach me: ...
 via email:
