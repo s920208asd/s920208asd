@@ -5,7 +5,7 @@
 🏝️ Taiwanese    
 😻 Super Cat Lover    
 👨‍💻 Junior Software Developer    
-👂 Good Communicator & Best teammate!
+👂 Good Communicator & Best teammate
 
 
 🌐 Spoken Languages: English & Chinese (Mandarin)
