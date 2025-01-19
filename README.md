@@ -5,18 +5,29 @@
 🏝️ Taiwanese    
 😻 Super Cat Lover    
 👨‍💻 Junior Software Developer    
-👂 Good Communicator (maybe)
+👂 Good Communicator & Best teammate!
+
 
 🌐 Spoken Languages: English & Chinese (Mandarin)
 
 ### Skills
-#### 📚 Languaes and Frameworks
-- HTML5
-- CSS3
-- Js
 - Java
 - SpringBoot
-- SQL    
+- SQL
+- Java
+- Spirng Boot
+- Jenkins
+- PostgreSQL
+- SQLServer
+- Git
+- AWS
+- OOP
+- SQL
+- React.js
+- HTML
+- CSS
+- JavaScript
+- Docker
 ... will be more
 
 ### What you'll find...
@@ -32,14 +43,3 @@ s920208asd@gmail.com
 <!--
 **s920208asd/s920208asd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
